@@ -1,12 +1,28 @@
 # main links
 main:
   - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    url: /docs/quick-start-guide/
+  - title: "About"
+    url: /about/
+  - title: "Blog"
+    url: /year-archive/
+  - title: "Documentation"
+    url: /collection-archive/
+
+
+# documentation links
+docs:
+  - title: Getting Started
+    children:
+      - title: "Quick-Start Guide"
+        url: /docs/quick-start-guide/
+  - title: Devices
+    children:
+      - title: "EdgePro1"
+        url: /docs/edgepro1/
+      - title: "EdgeProMX"
+        url: /docs/edgepromx/
+  - title: Other
+    children:
+      - title: "License"
+        url: /docs/license/
