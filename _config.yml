@@ -15,7 +15,7 @@ title                    : "EdgePro"
 title_separator          : "-"
 subtitle                 : "Powering the next generation of Things"
 name                     : &name "EdgePro" # &name is a YAML anchor which can be *referenced later
-description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
+description              : &description "Powering the next generation of Things."
 url                      : http://www.edgepro.org # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "edgepro-dev/minimal-mistakes"
